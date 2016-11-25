@@ -419,7 +419,7 @@ color:#fff;
 
 .main-heading
 {
-   background: url(http://bayanbox.ir/view/5738920760673167978/main.jpg) center center no-repeat;
+   background: url("http://cdn.persiangig.com/preview/ASm9HpBo2m/main.jpg") center center no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
 	color: #cfcfcf;
@@ -562,7 +562,7 @@ p.lead
     position: absolute;
     top: 0;
     left: 0;
-    background:#222 url("../images/plus.png") center center no-repeat;
+    background:#222 url("http://cdn.persiangig.com/preview/fJHPLr3Qp6/plus.png") center center no-repeat;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
     opacity: 0;
