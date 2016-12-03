@@ -419,8 +419,8 @@ color:#fff;
 
 .main-heading
 {
-   background: url("http://cdn.persiangig.com/preview/ASm9HpBo2m/main.jpg") center center no-repeat;
-	background-size:cover;
+   background: url("http://cdn.persiangig.com/preview/t5JQfSnhuO/Stila_main_bg.jpg") center center no-repeat;
+	background-size:contain;
 	background-attachment: fixed;
 	color: #cfcfcf;
         margin-top:80px;
